@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-PRODID:converter
+PRODID:calendarconverter
 CALSCALE:GREGORIAN
 VERSION:2.0
 BEGIN:VEVENT
@@ -8,7 +8,7 @@ DTEND:20250803
 UID:ZAN001
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250803
@@ -16,7 +16,7 @@ DTEND:20250806
 UID:ZAN002
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250807
@@ -24,7 +24,7 @@ DTEND:20250810
 UID:ZAN003
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250812
@@ -32,7 +32,7 @@ DTEND:20250817
 UID:ZAN004
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250818
@@ -40,7 +40,7 @@ DTEND:20250821
 UID:ZAN005
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250823
@@ -48,7 +48,7 @@ DTEND:20250829
 UID:ZAN006
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250829
@@ -56,7 +56,7 @@ DTEND:20250829
 UID:ZAN007
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250830
@@ -64,7 +64,7 @@ DTEND:20250831
 UID:ZAN008
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250905
@@ -72,7 +72,7 @@ DTEND:20250907
 UID:ZAN009
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250908
@@ -80,7 +80,7 @@ DTEND:20250911
 UID:ZAN010
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250912
@@ -88,7 +88,7 @@ DTEND:20250916
 UID:ZAN011
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250919
@@ -96,7 +96,7 @@ DTEND:20250921
 UID:ZAN012
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250926
@@ -104,7 +104,7 @@ DTEND:20250928
 UID:ZAN013
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003
@@ -112,7 +112,7 @@ DTEND:20251005
 UID:ZAN014
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251010
@@ -120,7 +120,7 @@ DTEND:20251012
 UID:ZAN015
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251016
@@ -128,7 +128,7 @@ DTEND:20251019
 UID:ZAN016
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024
@@ -136,7 +136,7 @@ DTEND:20251026
 UID:ZAN017
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251031
@@ -144,7 +144,7 @@ DTEND:20251102
 UID:ZAN018
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251106
@@ -152,7 +152,7 @@ DTEND:20251109
 UID:ZAN019
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113
@@ -160,7 +160,7 @@ DTEND:20251116
 UID:ZAN020
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121
@@ -168,7 +168,7 @@ DTEND:20251123
 UID:ZAN021
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251127
@@ -176,7 +176,7 @@ DTEND:20251130
 UID:ZAN022
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220
@@ -184,7 +184,7 @@ DTEND:20251221
 UID:ZAN023
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251222
@@ -192,7 +192,7 @@ DTEND:20251226
 UID:ZAN024
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251226
@@ -200,7 +200,7 @@ DTEND:20251228
 UID:ZAN025
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251230
@@ -208,7 +208,7 @@ DTEND:20260102
 UID:ZAN026
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260103
@@ -216,7 +216,7 @@ DTEND:20260107
 UID:ZAN027
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260108
@@ -224,7 +224,7 @@ DTEND:20260111
 UID:ZAN028
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122
@@ -232,7 +232,7 @@ DTEND:20260125
 UID:ZAN029
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129
@@ -240,7 +240,7 @@ DTEND:20260201
 UID:ZAN030
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260205
@@ -248,7 +248,7 @@ DTEND:20260208
 UID:ZAN031
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260213
@@ -256,7 +256,7 @@ DTEND:20260215
 UID:ZAN032
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312
@@ -264,7 +264,7 @@ DTEND:20260315
 UID:ZAN033
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260620
@@ -272,7 +272,7 @@ DTEND:20260621
 UID:ZAN034
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260625
@@ -280,7 +280,7 @@ DTEND:20260628
 UID:ZAN035
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260717
@@ -288,7 +288,7 @@ DTEND:20260719
 UID:ZAN036
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260722
@@ -296,7 +296,7 @@ DTEND:20260726
 UID:ZAN037
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260828
@@ -304,7 +304,6 @@ DTEND:20260830
 UID:ZAN038
 ATTENDEE:MAILTO:info@ppconstruction.sk
 SUMMARY:Zaneprázdnený
-DESCRIPTION:Automaticky importovĂˇno z Outlooku
+DESCRIPTION:Automaticky importovano z Outlooku
 END:VEVENT
 END:VCALENDAR
-
