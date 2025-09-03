@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-PRODID:-//mojekalendare//converter
+PRODID:converter
 CALSCALE:GREGORIAN
 VERSION:2.0
 BEGIN:VEVENT
@@ -307,3 +307,4 @@ SUMMARY:Zaneprázdnený
 DESCRIPTION:Automaticky importovĂˇno z Outlooku
 END:VEVENT
 END:VCALENDAR
+
